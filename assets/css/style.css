@@ -1,0 +1,42 @@
+h2 {
+  text-align: center;
+}
+body {
+  background-color: gainsboro;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  background-color: whitesmoke;
+}
+.horizontal-items {
+  display: flex;
+  justify-content: space-between;
+}
+.margin-icon-items {
+  margin: 15px;
+  display: flex;
+  align-items: center;
+}
+.margin-title-items {
+  margin: 15px 0;
+  width: 100%;
+}
+.margin-title-content {
+  margin: 0;
+}
+.small-content {
+  color: gray;
+  font-size: 14px;
+  text-align: left;
+}
+.padding-foot-icon {
+  padding: 15px;
+}
+.description {
+  margin: 15px;
+}
+.share-margin-right {
+  margin-right: 200px;
+}
